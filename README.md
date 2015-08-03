@@ -14,7 +14,11 @@
 |5  | EE 102| Electrical Technology |2|0|0| 2|C| 
 |6| HU 101| English Proficiency |2|0|0| 2| AECC |
 |7 |SS 101 |Human Values & Buddhist Ethics |2|0|0| 2| AECC| 
-|Labs|
+
+    Labs
+
+||| ||  | |||
+| -- | -- | -- | -- | -- | -- |--|--
 |8 |PH 104| Engineering Physics Lab | 0|0|2| 1 |C
 |9 | ME 102 |Engineering Workshop | 0|0|3| 2| C
 |10 | CS 181 |Computer Programming Lab-I | 0|0|3 |2 | SEC
